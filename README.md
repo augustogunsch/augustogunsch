@@ -1,6 +1,6 @@
 ### Hello!
 I'm Augusto. I like to program and learn about new tecnologies. I'm currently learning the Rust programming language.
-You can read more about me in my (website)[https://augustogunsch.xyz]
+You can read more about me in my [website](https://augustogunsch.xyz).
 
 <!--
 **augustogunsch/augustogunsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
